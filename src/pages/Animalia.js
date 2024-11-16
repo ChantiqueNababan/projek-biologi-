@@ -8,8 +8,6 @@ const Animalia = () => {
   const [activeTab, setActiveTab] = useState('overview');
 
   const animalGroups = [
-    
-   
     {
       id : 'invertebrata',
       title: 'Invertebrata',
@@ -274,5 +272,3 @@ const Animalia = () => {
 };
 
 export default Animalia;
-
-
